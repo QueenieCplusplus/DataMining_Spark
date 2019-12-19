@@ -5,7 +5,7 @@
 
 此資料庫系統，跟 C＊ 不同之處在於，更多的語言支援，不僅限於 Java，還包含 Python 和 Scala。
 
-另外， Spark 可以存取 Hadoop 和 Cassandra 這樣的資料存儲來源，並且支援多種資料來源如 JSON 和 Hive table 或是 。
+另外， Spark 可以存取 Hadoop 和 Cassandra 這樣的資料存儲來源，並且支援多種資料來源如 JSON 、 Hive table 、 文字檔、  。
 
 # 數據處理的各種應用
 
