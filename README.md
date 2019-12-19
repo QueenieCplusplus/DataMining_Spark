@@ -47,12 +47,12 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
 
 # Run Spark in Cluster 
 
-                                Spark Driver
+                                  Spark Driver
                                  
                                        |
                                        |
 
-                                Cluster Master
+                                  Cluster Master
                                       
                                        |
                            ______________________________
@@ -62,5 +62,14 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
                    
                       excute          excute         excute
 
+# Cluster Master
+
+叢集管理器可使用：
+
+      Spark Standalone
+
+      Hadoop YARN
+
+      Apache Mesos
 
 (To Be Done...)
