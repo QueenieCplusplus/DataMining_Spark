@@ -39,8 +39,6 @@
 
 # RDD, 核心元件
 
-Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！
-
-
+Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代表著分散在外多台運算節點仍然可以被平行處理的物件集合。
 
 (To Be Done...)
