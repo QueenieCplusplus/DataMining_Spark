@@ -29,10 +29,10 @@
 這些功能元件都能與 Spark 核心完美地一起運作。
 
 
-                HQL      Stream      ML      Graph Process
+                 HQL      Stream      MLlib      GraphX
 
 
-                               Spark Core
+                               Spark Core(RDD)
 
 
                      Scheduler        Yarn       Mesos
