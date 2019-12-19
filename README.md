@@ -62,6 +62,7 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
                    
                       excute          excute         excute
                       
+                      Cache           Cache           Cache
                        RDD             RDD             RDD
 
 # Cluster Master
