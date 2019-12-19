@@ -26,6 +26,9 @@
 # 叢集管理平台整合的元件
 
 
+這些功能元件都能與 Spark 核心完美地一起運作。
+
+
                 HQL      Stream      ML      Graph Process
 
 
