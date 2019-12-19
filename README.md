@@ -26,7 +26,7 @@
 # 叢集管理平台整合的元件
 
 
-                SQL      Stream      ML      Graph Process
+                QL      Stream      ML      Graph Process
 
 
                                Spark Core
