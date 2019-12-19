@@ -48,6 +48,8 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
 # Run Spark in Cluster 
 
                                     Spark Driver
+                                    
+                                http://localhost:4040
                                        
                                          |
                                  
