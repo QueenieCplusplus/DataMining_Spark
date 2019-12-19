@@ -72,6 +72,14 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
 
       Apache Mesos
       
+# Kernel
+
+local 使用一個核心執行本機模式
+
+local[N] 使用 n 個核心執行本機模式
+
+local[*] 使用機器所能提供最大核心數來執行本機模式
+      
 # Deploy
 
 預設埠號：7077
@@ -81,6 +89,5 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
 預設埠號：5050
 
       mesos://host:port 
-
 
 (To Be Done...)
