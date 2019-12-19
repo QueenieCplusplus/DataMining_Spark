@@ -35,12 +35,18 @@
                                Spark Core(RDD)
 
 
-                     Scheduler        Yarn       Mesos
+                     Scheduler        ClusterManager
 
 # RDD, 核心元件
 
 Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代表著分散在外多台運算節點仍然可以被平行處理的物件集合。
 
 關於 RDD，推薦翻閱 hadoop 技術叢書。
+
+在使用 Spark 時，會先建置應用程式，然後建立 RDD 並且對其下達操作指令。
+
+# Run Spark in Cluster 
+
+
 
 (To Be Done...)
