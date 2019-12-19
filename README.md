@@ -1,6 +1,8 @@
 # DataMining_Spark
 擁有泛化運算引擎的叢集管理平台，是資料科學家的好工具！
 
+可以說，算是超級高級版本的 R 和 Pandas 的結合，能擁有高級能量處理更多數據，並且融合更多豐富的 API。
+
 此資料庫系統，跟 C＊ 不同之處在於，更多的語言支援，不僅限於 Java，還包含 Python 和 Scala。
 
 另外， Spark 可以存取 Hadoop 和 Cassandra 這樣的資料存儲來源，並且支援多種資料來源如 JSON 和 Hive table。
