@@ -34,4 +34,9 @@
 
                      Scheduler        Yarn       Mesos
 
+# RDD, 核心元件
+
+
+
+
 (To Be Done...)
