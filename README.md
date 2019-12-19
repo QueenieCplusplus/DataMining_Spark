@@ -1,2 +1,2 @@
 # DataMining_Spark
-資料分析框架
+分散式料庫系統
