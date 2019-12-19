@@ -41,4 +41,6 @@
 
 Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代表著分散在外多台運算節點仍然可以被平行處理的物件集合。
 
+關於 RDD，推薦翻閱 hadoop 技術叢書。
+
 (To Be Done...)
