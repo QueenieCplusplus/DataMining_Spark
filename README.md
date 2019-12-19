@@ -61,7 +61,7 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
                     WorkerThread   WorkerThread    WorkerThread
                    
                       excute          excute         excute
-                      
+                  Block Manager    Block Manager  Block Manager 
                       Cache           Cache           Cache
                        RDD             RDD             RDD
 
