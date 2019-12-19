@@ -35,7 +35,7 @@
                                Spark Core(RDD)
 
 
-                     Scheduler        ClusterManager
+                     Scheduler        ClusterMaster
 
 # RDD, 核心元件
 
@@ -47,6 +47,20 @@ Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！代�
 
 # Run Spark in Cluster 
 
+                                Spark Driver
+                                 
+                                       |
+                                       |
+
+                                Cluster Master
+                                      
+                                       |
+                           ______________________________
+                           |             |              |
+
+                    WorkerThread   WorkerThread    WorkerThread
+                   
+                      excute          excute         excute
 
 
 (To Be Done...)
