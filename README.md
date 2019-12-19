@@ -36,6 +36,7 @@
 
 # RDD, 核心元件
 
+Resilient Distributed Dataset 彈性分散式資料就是 Spark 的核心！
 
 
 
