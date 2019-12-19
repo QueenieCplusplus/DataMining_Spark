@@ -3,6 +3,8 @@
 
 此資料庫系統，跟 C＊ 不同之處在於，更多的語言支援，不僅限於 Java，還包含 Python 和 Scala。
 
+另外， Spark 可以存取 Hadoop 和 Cassandra 這樣的資料存儲來源。
+
 # 特點
 
 改良 Hadoop 的運算框架 MapReduce，此資料庫引擎的查詢度執行效率加快，而且擁有豐富的 API，可以做更多的巨量資料處理的相關運用，例如 
