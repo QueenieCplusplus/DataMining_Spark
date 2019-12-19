@@ -19,8 +19,19 @@
 
 * ML, 機器學習
 
-* Image Process, 影像處理
+* Graph Process, 影像處理
 
 因為它能充分利用記憶體，故處理速度很快，能處理大量資料，倘若遇到複雜的應用程式，需要透過硬碟處理工作任務時， Spark 也會比 Hadoop 的 MapReduce 來得有效率。
+
+# 叢集管理平台整合的元件
+
+
+                SQL      Stream      ML      Graph Process
+
+
+                               Spark Core
+
+
+                     Scheduler        Yarn       Mesos
 
 (To Be Done...)
