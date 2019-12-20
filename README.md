@@ -100,4 +100,14 @@ local[*] 使用機器所能提供最大核心數來執行本機模式
 
       mesos://host:port 
 
+# Spark & Hadoop
+
+結合的情境如下
+
+* 資料整合
+* 專業分析
+* 資料流分析
+* 事件處理
+* 增加 SAS
+
 (To Be Done...)
