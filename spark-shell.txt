@@ -1,0 +1,62 @@
+execute spark-shell
+
+Type :help for more information.
+
+--------------------------------------------------------------------------
+
+Using Spark's default log4j profile: org/apache/sp
+
+Spark context Web UI available at http://MIS0-24.concords.com.tw:4040
+
+Spark context available as 'sc' (master = local[*], app id = local-1584496280854).
+
+Spark session available as 'spark'.
+
+--------------------------------------------------------------------------
+
+20/03/18 09:51:13 ERROR Shell: Failed to locate th
+java.io.IOException: Could not locate executable n
+
+        at org.apache.hadoop.util.Shell.getQualifi
+        at org.apache.hadoop.util.Shell.getWinUtil
+        at org.apache.hadoop.util.Shell.<clinit>(S
+        at org.apache.hadoop.util.StringUtils.<cli
+        at org.apache.hadoop.security.SecurityUtil
+        at org.apache.hadoop.security.UserGroupInf
+        at org.apache.hadoop.security.UserGroupInf
+        at org.apache.hadoop.security.UserGroupInf
+        at org.apache.hadoop.security.UserGroupInf
+        at org.apache.hadoop.security.UserGroupInf
+        at org.apache.spark.util.Utils$$anonfun$ge
+        at org.apache.spark.util.Utils$$anonfun$ge
+        at scala.Option.getOrElse(Option.scala:121
+        at org.apache.spark.util.Utils$.getCurrent
+        at org.apache.spark.SecurityManager.<init>
+        at org.apache.spark.deploy.SparkSubmit.sec
+        at org.apache.spark.deploy.SparkSubmit.org
+        at org.apache.spark.deploy.SparkSubmit$$an
+        at org.apache.spark.deploy.SparkSubmit$$an
+        at scala.Option.map(Option.scala:146)
+        at org.apache.spark.deploy.SparkSubmit.pre
+        at org.apache.spark.deploy.SparkSubmit.org
+        at org.apache.spark.deploy.SparkSubmit.doR
+        at org.apache.spark.deploy.SparkSubmit.sub
+        at org.apache.spark.deploy.SparkSubmit.doS
+        at org.apache.spark.deploy.SparkSubmit$$an
+        at org.apache.spark.deploy.SparkSubmit$.ma
+        at org.apache.spark.deploy.SparkSubmit.mai
+
+20/03/18 09:51:13 WARN NativeCodeLoader: Unable toa classes where applicable
+
+Using Spark's default log4j profile: org/apache/sp
+Spark context Web UI available at http://MIS0-24.concords.com.tw:4040
+Spark context available as 'sc' (master = local[*], app id = local-1584496280854).
+Spark session available as 'spark'.
+
+    _\ \/ _ \/ _ `/ __/  '_/
+   /___/ .__/\_,_/_/ /_/\_\   version 2.4.5
+      /_/
+
+Using Scala version 2.11.12 (Java HotSpot(TM) 64-Bit Server VM, Java 1.8.0_211)
+Type in expressions to have them evaluated.
+Type :help for more information.
